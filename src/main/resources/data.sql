@@ -1,0 +1,1 @@
+INSERT INTO USER (`name`,`password`,`created_date`,`created_by`) values('Kwame Boadu',current_timestamp,'Bismark');
